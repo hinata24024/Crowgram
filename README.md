@@ -3,15 +3,10 @@
 </p>
 
 <p align="center">
-<b>Crowgram</b>
+<b>Crowgram</b><br/>
+Crowgram is a powerful, advanced, multi-featured Telegram userbot.
 </p>
 
-
-<h2>Crowgram</h2>
-<p title="Crowgram">Crowgram is a powerful, advanced, multi-featured Telegram userbot.</p>
-
-![](assets/maintained.svg)
-![](assets/license.svg)
 
 <h2>Deployment</h2>
 <p title="Deployment">You can use Crowgram through the cloud application platform Heroku.</p>
