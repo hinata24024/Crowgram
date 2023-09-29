@@ -1,3 +1,12 @@
+<p align="center">
+<a href="https://github.com/iniridwanul/Crowgram"><img src="assets/crowgram_circle.png" height="128" width="128" alt="Crowgram"></a>
+</p>
+
+<p align="center">
+<b>Crowgram</b>
+</p>
+
+
 <h2>Crowgram</h2>
 <p title="Crowgram">Crowgram is a powerful, advanced, multi-featured Telegram userbot.</p>
 
