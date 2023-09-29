@@ -7,6 +7,13 @@
 Crowgram is a powerful, advanced, multi-featured Telegram userbot.
 </p>
 
+<p align="center">
+<a href="https://github.com/iniridwanul/Crowgram">
+<img src="assets/maintained.svg" alt="Crowgram"></a>
+<a href="https://github.com/iniridwanul/Crowgram">
+<img src="assets/license.svg" alt="Crowgram"></a>
+</p>
+
 
 <h2>Deployment</h2>
 <p title="Deployment">You can use Crowgram through the cloud application platform Heroku.</p>
